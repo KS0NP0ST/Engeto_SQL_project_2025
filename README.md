@@ -177,5 +177,5 @@
      
 5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?
    - Na základě kolerační analýzy má ve stejném roce vliv růstu HDP na změny ve mzdách minimální, tj. -0,01 a vůči cenám potravin také minimální, konkrétně 0,48, tedy mírný nárůst cen.
-   - Zároveň ale s ročním zpožděním se zvýšení HDP výrazněji promítne především do růstu mezd, tj. 0,66, ale na ceny potravin to nemá významný vliv, pouze -0,03, udržují se tedy podobnou cenovou hladinu.
+   - Zároveň ale s ročním zpožděním se zvýšení HDP výrazněji promítne především do růstu mezd, tj. 0,66, ale na ceny potravin to nemá významný vliv, pouze -0,03, udržují si tedy podobnou cenovou hladinu.
      
